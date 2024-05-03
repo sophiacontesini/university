@@ -4,18 +4,17 @@ Este é um projeto de exemplo para uma universidade, criado usando PostgreSQL, g
 
 ![modelagemUniversidade](https://github.com/sophiacontesini/university/assets/94463723/8bfdc39e-c0d5-4d9b-a4cb-04a214701b9c)
 
+## Funcionalidades do Sistema
+
+- Cadastrar alunos, professores, disciplinas e turmas.
+- Matricular os alunos em suas respectivas turmas e disciplinas.
+- Registrar as notas de cada aluno.
+
 ## Pré-requisitos
 
 Certifique-se de ter instalado os seguintes componentes antes de iniciar:
 - [Docker](https://docs.docker.com/get-docker/): para criar e gerenciar contêineres.
 - [DBeaver](https://dbeaver.io/download/): para gerenciar o banco de dados PostgreSQL.
-
-
-## Funcionalidades do Sistema
-
-- Cadastrar alunos, professores, disciplinas e turmas.
-- Matrícular os alunos em suas respectivas turmas e disciplinas.
-- Registrar as notas de cada aluno.
 
 ## Instruções de Uso
 
